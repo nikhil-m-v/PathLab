@@ -9,7 +9,7 @@
 - D01: validated for documentation consistency; diagram rendering remains a bootstrap check.
 - All algorithm, frontend, dependency-lock, test, benchmark, CI and deployment tasks: pending.
 - Dedicated local project: `C:\Users\nikhi\Documents\ChatGPT\PathLab`.
-- Repository: `https://github.com/nikhil-m-v/PathLab`; publication in progress in this session.
+- Repository: `https://github.com/nikhil-m-v/PathLab` (public); documentation branch published.
 - Working branch: `docs/project-foundation`; `main` contains an initialization commit.
 - Package location: repository root. The original documentation output remains preserved.
 
@@ -50,7 +50,7 @@ These are pending research/engineering obligations, not observed software defect
 
 ## Repository publication session
 
-2026-10-04: copied the complete documentation package into the dedicated project without removing the source output. Created an initialization commit on `main` and selected `docs/project-foundation` for the documentation commit. The user explicitly authorized repository creation and branch publication. No algorithm code or dependencies were added.
+2026-10-04: copied the complete documentation package into the dedicated project without removing the source output. Created an initialization commit on `main` and published all 14 Markdown files on `docs/project-foundation` in the public GitHub repository. The user explicitly authorized repository creation and branch publication. Documentation validation passed again (14 files, 18 relative links, three JSON examples); `git diff --cached --check` passed. No algorithm code or dependencies were added. Default branch is `main`; documentation has not been merged.
 
 ## Session record template
 

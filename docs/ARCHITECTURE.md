@@ -60,4 +60,4 @@ Build a static site under the repository subpath. Include small pre-recorded tra
 
 Validation CI runs fast Python tests, type/lint checks, frontend tests, browser smoke integration, and production build. Full-scale benchmark runs are manual and must name hardware. Deployment runs only after validation passes on the chosen release branch.
 
-No repository, remote, workflow, or live site exists yet. Creating those artifacts belongs to bootstrap and release tasks in [roadmap](ROADMAP.md).
+The repository and GitHub remote are now created; documentation is published on `docs/project-foundation`. No workflow or live site exists yet. Remaining bootstrap and release artifacts follow [roadmap](ROADMAP.md).
